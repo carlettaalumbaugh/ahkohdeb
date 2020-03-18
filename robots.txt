@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooquichahc.luanai.cz/sitemap.xml
